@@ -1,2 +1,6 @@
-# unreal_tips
-Tips and tricks for unreal
+# Unreal tips
+
+### Rendering   
+
+light blocking   
+https://www.youtube.com/watch?v=ptrcJOvTa1g&t=231s
