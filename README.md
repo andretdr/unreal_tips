@@ -1,5 +1,8 @@
 # Unreal tips
 
+### Console Animation Log
+In the console, type `show debugAnimation`   
+
 ### Rendering   
 
 light blocking   
